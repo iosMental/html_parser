@@ -1,6 +1,7 @@
 #ifndef _CONST_DEF_H_
 #define _CONST_DEF_H_
 
+
 #include "WinPorting.h"
 
 #ifndef DELETE_OBJ
